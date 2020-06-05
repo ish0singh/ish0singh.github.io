@@ -1,2 +1,2 @@
-# ish0singh.github.io
+# ishsingh.github.io
 Website
